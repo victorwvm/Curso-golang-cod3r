@@ -1,0 +1,10 @@
+filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
+filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
+github.com/go-sql-driver/mysql v1.9.3 h1:U/N249h2WzJ3Ukj8SowVFjdtZKfu9vlLZxjPXV1aweo=
+github.com/go-sql-driver/mysql v1.9.3/go.mod h1:qn46aNg1333BRMNU69Lq93t8du/dwxI64Gl8i5p1WMU=
+github.com/victorwvm/buscartitulo v0.0.0-20250919082341-22e4fc39fe81 h1:ySs8SJd7dIY5CmSMcUo3BYBi+a2wvnz7WYWUrLvxfEc=
+github.com/victorwvm/buscartitulo v0.0.0-20250919082341-22e4fc39fe81/go.mod h1:phUuCHi0Weq+ihw26ybr0N6W9P22xSfj1JcBaLX20iE=
+github.com/victorwvm/buscartitulo v0.0.0-20250922091301-432dc31a9341 h1:ZGv8g0ED6sB8IkBI33h03Tm0SxclVLDz6bBw0SagqAk=
+github.com/victorwvm/buscartitulo v0.0.0-20250922091301-432dc31a9341/go.mod h1:M4WHRDwBeIBB/h+lp57+4Q3pEsb9BoR7grxHZWn+F7c=
+github.com/victorwvm/goarea v0.0.0-20250916070013-d85e30683148 h1:Ni2fyS1cMwK9VXPzy+v6+EuvifL/5v1p1v/wC0pV6ss=
+github.com/victorwvm/goarea v0.0.0-20250916070013-d85e30683148/go.mod h1:Bpb66rglWt01TVqEK2VAyhqHv97N9OnQfmAmctMUfT8=
